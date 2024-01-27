@@ -110,6 +110,6 @@ This project involves a web scraper that extracts product information, such as n
 ![Project 5 - Image 3](projet5(img3).png)
 ![Project 5 - Image 4](projet5(img4).png)
 ### Project 6
-![Project 6 - Image 1](projet6(img1).png)
-![Project 6 - Image 2](projet6(img2).png)
+![Project 6 - Image 1](project6(img1).png)
+![Project 6 - Image 2](project6(img2).png)
 
